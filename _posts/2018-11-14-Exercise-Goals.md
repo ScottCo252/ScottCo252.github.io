@@ -10,7 +10,7 @@ track my progress. The first goal is to get back to my best level from a few yea
 
 Workout: Running intervals of 2min slow, 1 min fast for at least 6 reps.  
 
-**11/14/18**
+**11/14/18**   
 REPS:     4 MPH/5.5 MPH 5 times and 3 MPH/5 MPH 1 time.  
 Distance: 1.41 Mi  
 Time:     20:01  
