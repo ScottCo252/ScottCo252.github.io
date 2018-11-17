@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exercise Goals
-tag: workout
+tag: Workout
 ---
 
 
