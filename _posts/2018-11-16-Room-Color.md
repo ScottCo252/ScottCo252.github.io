@@ -9,6 +9,6 @@ I like the lighter teal and Christina is really digging the darker bluish one.
 
 Here are a couple of samples we painted against different backgrounds and lighting.
 
-![Color Sample 1]({{ site.baseurl }}/images/choice_1.jpg "Sample 1")
-![Color Sample 2]({{ site.baseurl }}/images/choice_2_f.jpg "Sample 2")
-![Color Sample 3]({{ site.baseurl }}/images/choice_3.jpg "Sample 3")
+![Color Sample 1]({{ site.baseurl }}/images/choice_1.JPG "Sample 1")   
+![Color Sample 2]({{ site.baseurl }}/images/choice_2_f.JPG "Sample 2")   
+![Color Sample 3]({{ site.baseurl }}/images/choice_3.JPG "Sample 3")   
