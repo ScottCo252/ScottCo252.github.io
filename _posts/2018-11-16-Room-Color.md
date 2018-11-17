@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Room Color
-tag: house_stuff
+tag: HouseStuff
 ---
 
 Christina and I are debating which color to paint the spare bedroom, which is becoming our daughter's big girl room next year.
