@@ -50,13 +50,13 @@ Hard to tell, but conditions look similar enough. Maybe the effect of the color 
 
 I have to believe this is running hotter now, especially with all the larger peak values in the data.
 
-![Temp 2018]({{ site.baseurl }}/images/first_flights_dec_2018_temp.bmp" Temp 2018") 
+![Temp 2018]({{ site.baseurl }}/images/first_flights_dec_2018_temp.bmp " Temp 2018") 
 ![Temp 2017]({{ site.baseurl }}/images/yellow_racer_3_12_17_race_temp.bmp " Temp 2017") 
 
 ## Power
 
 Peak power over 1100 with the higher session, march log has it's peak at 1050. Other older logs varied between 950 and 1050 when I looked through them tonight.
 
-![Watts 2018]({{ site.baseurl }}/images/first_flights_dec_2018_watts.bmp" Watts 2018") 
+![Watts 2018]({{ site.baseurl }}/images/first_flights_dec_2018_watts.bmp " Watts 2018") 
 ![Watts 2017]({{ site.baseurl }}/images/yellow_racer_3_12_17_race_watts.bmp " Watts 2017") 
 
