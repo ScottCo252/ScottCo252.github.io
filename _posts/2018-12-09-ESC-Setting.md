@@ -8,13 +8,13 @@ tag: RC
 I "discovered" a better setting for my RC race plane's ESC. I'll be going over the data that was pulled off the ESC and comparing it to
 data from a race plane in 2017.
 
-A litte background, I've raced EF-1 class RC airplanes for the past 4 years. This past week, while building my fifth Proud Bird race plane, I noticed a
+A litte background, I've raced [EF-1](http://www.nmpra.net/rules/EF1NewRules4_15_2014.pdf) class RC airplanes for the past 4 years. This past week, while building my fifth Proud Bird race plane, I noticed a
 castle ESC motor timing option labeled 'Custom'. When selecting it, it allowed input of a number from 1-20. This was much higher than
 the default 'High' Setting of 10 that I typically use on my planes. I do not know what each unit signifies, but the description of the setting explains that it controls the
 power of the motor and will result in higher operating temperatures at higher settings. So I set it to 20 and took the new plane out to the field yesterday.
 
 Four test flights in and I can say it definitley felt faster. On the fourth flight, where I was really pushing it, I hit a low voltage alarm. This is abnormal for my typical practice and race flights, so I had to pull the data and see what happened. I'll be comparing the data from yesterday's fourth flight with race data I pulled off a proud bird in 2017. It will be using the exact same configuration,
-castle speed controller, Rimfire motor and Nantech battery(2.7 A, 4 cell). The only difference will be in the ESC motor timing setting and time of the year (December vs. March).
+a Castle lite 75 speed controller, Great Planes Rimfire EF-1 motor and a Nanotech battery(2.7 A, 4 cell). The only difference will be in the ESC motor timing setting and time of the year (December vs. March).
 
 ## Voltage
 
